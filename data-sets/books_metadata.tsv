@@ -1,0 +1,11 @@
+ID	TITLE	AUTHOR	BASE_PRICE	CATEGORY	PUBLICATION_YEAR	ATTRIBUTES
+100001	Biegacz	Piotr Bojarski	29.90	thriller	2017	tags:crime,present,investigation
+100002	Szmery	Piotr Bojarski	31.89	thriller	2019	tags:crime,retro,investigation
+100003	Ptasiek	William Wharton	24.90	novel	1978	tags:american literature,mental illness,moral novel
+100004	Notebook	Tomasz Lipko	32.90	thriller	2015	tags:internet,car accident,crime
+100005	Festung Breslau	Marek Krajewski	29.90	thriller	2011	tags:red army,world war 2,crime
+100006	Wektor Pierwszy	R. A. Salwatore	27.80	sci-fi	2000	tags:star wars,jedi,the force
+100007	Przypadek	Grzegorz Miecugow	26.31	fiction	2010	tags:love,betrayal,cosmos
+100008	Sejf	Tomasz Sekielski	34.90	thriller	2012	tags:war,politics,crime
+100009	Obraz kontrolowany	Tomasz Sekielski	34.90	thriller	2013	tags:politics,crime,authority
+100010	Sejf 3	Tomasz Sekielski	34.90	thriller	2014	tags:hacker,witness,politics
